@@ -5,3 +5,5 @@ from local to remote on Github.
 for i in range(5):
     print('Welcome to Git.')
     
+for i in range(3):
+    print('New features.\n')
