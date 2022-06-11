@@ -7,3 +7,10 @@ for i in range(5):
     
 for i in range(3):
     print('New features.\n')
+
+import random
+n=random.randint(0,100)
+if n/2==0:
+    print("{} is Even".format(n))
+else:
+    print("{} is Odd".format(n))
